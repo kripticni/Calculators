@@ -2,6 +2,48 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <stdint.h>
+#include <string.h>
+#include <ctype.h>
+
+void madnessCalculator(int arr[], uint16_t mask, uint16_t mask_used, uint64_t sum){
+  //int i=0; //i want this allocated memory to be freed when the stack collapses, so im declaring it ahead of the loop
+  //well sadly this actually need to be typed manually because bits are not related and are instead in alphabetical order
+  //so we dont need a iterator, i guess thats 4 bytes less per stack!
+  //also mask starts with all zeroes because its easier to set ones than zeroes
+
+  if(sum > 19){
+    printf("Madness Potion craftable with: ");
+    if(mask_used & 1) printf("Abate ");
+    if(mask_used & 2) printf("Accrue ");
+    if(mask_used & 4) printf("Algid ");
+    if(mask_used & 8) printf("Ardor ");
+    if(mask_used & 16) printf("Cavort ");
+    if(mask_used & 32) printf("Fervor ");
+    if(mask_used & 64) printf("Ichor ");
+    if(mask_used & 128) printf("Gambol ");
+    if(mask_used & 256) printf("Lucre ");
+    if(mask_used & 512) printf("Luminous ");
+    if(mask_used & 1024) printf("Skew ");
+    if(mask_used & 2048) printf("Tenebrous ");
+    if(mask_used & 4096) printf("Theriac ");
+    if(mask_used & 8192) printf("Torrid ");
+    if(mask_used & 16384) printf("Vigor ");
+    if(mask_used & 32768) printf("Virulent");
+    printf("\n");
+  }
+
+  if(!(mask & (uint16_t)1)){
+    //mask |= 1; self
+    //mask |= 2; accrue
+    //mask |= 64; ichor
+    madnessCalculator(arr, ((mask | 1) | 2) | 64, mask_used | 1, sum + arr[0]);
+    //apparently no need to backtrack because this does it, pretty much, and faster!
+  }
+
+  //ill finish the rest soon
+
+  
+}
 
 int main(){
   printf("Initializing the calculator...");
@@ -53,16 +95,17 @@ int main(){
   printf("You may change your mode later by type either [s] or [m].\nChoose a mode, Single or Multi: [s/m] ");
   
 input_loop:
+  fflush(stdin);
   character=getchar();
   if(character == 'M' || character == 'S'){
     character = character + 32;
   } // you can maybe optimize both of this conditions, but it doesnt really matter since its based on human input (i think, in this case)
-  if(character != 'm' || character != 's'){
+  if(character != 'm' && character != 's'){
     printf("\nWrong input, you can only enter s/m.");
     goto input_loop;
   }
 
-  printf("\nCorrect input.");
+  printf("\nCorrect input.\n");
   if(character == 'm'){
     printf("Abate: ");
     scanf("%lu", &bufferMulti);
@@ -129,33 +172,22 @@ input_loop:
     input[15]+=bufferMulti; //easier than typing out the enum
   }else{
   start_single:
+
   printf("Enter the name of your berry: ");
-  fgets(bufferSingle, 9, stdin);
 
-  for(i=0, sumSingle=0; bufferSingle[1]!='\0'; ++i){
-    if(bufferSingle[i] > 122){
-      printf("Wrong input, insert a valid berry.");
-      goto start_single;
-    }
-
-    if(bufferSingle[i] < 65){  //97 - 32
-      printf("Wrong input, insert a valid berry.");
-      goto start_single;
-    }
+  while((character=getchar()) != '\n'  && character!=EOF){}
   
+  if(fgets(bufferSingle,sizeof(bufferSingle),stdin)!=NULL) {
+      bufferSingle[strcspn(bufferSingle,"\n")]='\0';
+  }
 
-    if(bufferSingle[i] > 90){ 
-      if(bufferSingle[i] < 97){ 
+  for(i=0, sumSingle=0; bufferSingle[i]!='\0'; ++i){
+    if(!isalpha(bufferSingle[i])){
         printf("Wrong input, insert a valid berry.");
         goto start_single;
-      }else{
-        bufferSingle[i] +=  32;
-      }
     }
-
-    //if(bufferSingle[i] < 91){
-    //  bufferSingle[i] += 32;
-    //}
+  
+    bufferSingle[i] = tolower(bufferSingle[i]);
 
     sumSingle += bufferSingle[i]; 
     }
@@ -212,5 +244,7 @@ input_loop:
         break;
     }
   }
+
+  madnessCalculator(input, 0, 0, 0);
 
 }
