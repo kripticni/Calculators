@@ -5,13 +5,96 @@
 #include <string.h>
 #include <ctype.h>
 
+static bool flag;
+static bool visited[65536]; //we will be using this to avoid getting to the same state
+//twice in a row, which will greatly speed up the program, but it will also take up
+//a lot of memory, we use 2^16th because those are the possible mask combinations
+    
 void madnessCalculator(int arr[], uint16_t mask, uint16_t mask_used, uint64_t sum){
+  flag = 0;
   //int i=0; //i want this allocated memory to be freed when the stack collapses, so im declaring it ahead of the loop
   //well sadly this actually need to be typed manually because bits are not related and are instead in alphabetical order
   //so we dont need a iterator, i guess thats 4 bytes less per stack!
   //also mask starts with all zeroes because its easier to set ones than zeroes
 
-  if(sum > 9){ //seems to be changed in the latest update, actually amazing
+  //so if visited, we skip this call because it would lead up to same states
+  if(visited[mask]){
+    return;
+  }
+  //and now we just set the state to visited
+  visited[mask] = true; //memoisation is cool
+
+  if(!(mask & (uint16_t)1)){
+    //mask |= 1; self
+    //mask |= 2; accrue
+    //mask |= 64; ichor
+    madnessCalculator(arr, ((mask | 1) | 2) | 64, mask_used | 1, sum + arr[0]);
+    flag = 1;
+    //apparently no need to backtrack because this does it, pretty much, and faster!
+  }
+  if(!(mask & (uint16_t)2)){
+    madnessCalculator(arr, ((mask | 2) | 1) | 32, mask_used | 2, sum + arr[1]);
+    flag = 1;
+  }
+
+  if(!(mask & (uint16_t)4)){
+    madnessCalculator(arr, ((mask | 4) | 8192) | 512, mask_used | 4, sum + arr[2]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)8)){
+    madnessCalculator(arr, ((mask | 8) | 16384) | 32, mask_used | 8, sum + arr[3]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)16)){
+    madnessCalculator(arr, ((mask | 16) | 256) | 1024, mask_used | 16, sum + arr[4]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)32)){
+    madnessCalculator(arr, ((mask | 32) | 2) | 8, mask_used | 32, sum + arr[5]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)64)){
+    madnessCalculator(arr, ((mask | 64) | 16384) | 1, mask_used | 64, sum + arr[6]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)128)){
+    madnessCalculator(arr, ((mask | 128) | 1024) | 2048, mask_used | 128, sum + arr[7]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)256)){
+    madnessCalculator(arr, ((mask | 256) | 16) | 32768, mask_used | 256, sum + arr[8]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)512)){
+    madnessCalculator(arr, ((mask | 512) | 8192) | 4, mask_used | 512, sum + arr[9]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)1024)){
+    madnessCalculator(arr, ((mask | 1024) | 128) | 16, mask_used | 1024, sum + arr[10]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)2048)){
+    madnessCalculator(arr, ((mask | 2048) | 4096) | 128, mask_used | 2048, sum + arr[11]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)4096)){
+    madnessCalculator(arr, ((mask | 4096) | 32768) | 2048, mask_used | 4096, sum + arr[12]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)8192)){
+    madnessCalculator(arr, ((mask | 8192) | 512) | 4, mask_used | 8192, sum + arr[13]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)16384)){
+    madnessCalculator(arr, ((mask | 16384) | 8) | 64, mask_used | 16384, sum + arr[14]);
+    flag = 1;
+  }
+  if(!(mask & (uint16_t)32768)){
+    madnessCalculator(arr, ((mask | 32768) | 4096) | 256, mask_used | 32768, sum + arr[15]);
+    flag = 1;
+  }
+
+  if(sum > 9 && flag){ //seems to be changed in the latest update, actually amazing
     printf("Madness Potion craftable with: ");
     if(mask_used & 1) printf("Abate ");
     if(mask_used & 2) printf("Accrue ");
@@ -30,61 +113,6 @@ void madnessCalculator(int arr[], uint16_t mask, uint16_t mask_used, uint64_t su
     if(mask_used & 16384) printf("Vigor ");
     if(mask_used & 32768) printf("Virulent");
     printf("\n");
-  }
-
-  if(!(mask & (uint16_t)1)){
-    //mask |= 1; self
-    //mask |= 2; accrue
-    //mask |= 64; ichor
-    madnessCalculator(arr, ((mask | 1) | 2) | 64, mask_used | 1, sum + arr[0]);
-    //apparently no need to backtrack because this does it, pretty much, and faster!
-
-  }
-  if(!(mask & (uint16_t)2)){
-    madnessCalculator(arr, ((mask | 2) | 1) | 32, mask_used | 2, sum + arr[1]);
-  }
-
-  if(!(mask & (uint16_t)4)){
-    madnessCalculator(arr, ((mask | 4) | 8192) | 512, mask_used | 4, sum + arr[2]);
-  }
-  if(!(mask & (uint16_t)8)){
-    madnessCalculator(arr, ((mask | 8) | 16384) | 32, mask_used | 8, sum + arr[3]);
-  }
-  if(!(mask & (uint16_t)16)){
-    madnessCalculator(arr, ((mask | 16) | 256) | 1024, mask_used | 16, sum + arr[4]);
-  }
-  if(!(mask & (uint16_t)32)){
-    madnessCalculator(arr, ((mask | 32) | 2) | 8, mask_used | 32, sum + arr[5]);
-  }
-  if(!(mask & (uint16_t)64)){
-    madnessCalculator(arr, ((mask | 64) | 16384) | 1, mask_used | 64, sum + arr[6]);
-  }
-  if(!(mask & (uint16_t)128)){
-    madnessCalculator(arr, ((mask | 128) | 1024) | 2048, mask_used | 128, sum + arr[7]);
-  }
-  if(!(mask & (uint16_t)256)){
-    madnessCalculator(arr, ((mask | 256) | 16) | 32768, mask_used | 256, sum + arr[8]);
-  }
-  if(!(mask & (uint16_t)512)){
-    madnessCalculator(arr, ((mask | 512) | 8192) | 4, mask_used | 512, sum + arr[9]);
-  }
-  if(!(mask & (uint16_t)1024)){
-    madnessCalculator(arr, ((mask | 1024) | 128) | 16, mask_used | 1024, sum + arr[10]);
-  }
-  if(!(mask & (uint16_t)2048)){
-    madnessCalculator(arr, ((mask | 2048) | 4096) | 128, mask_used | 2048, sum + arr[11]);
-  }
-  if(!(mask & (uint16_t)4096)){
-    madnessCalculator(arr, ((mask | 4096) | 32768) | 2048, mask_used | 4096, sum + arr[12]);
-  }
-  if(!(mask & (uint16_t)8192)){
-    madnessCalculator(arr, ((mask | 8192) | 512) | 4, mask_used | 8192, sum + arr[13]);
-  }
-  if(!(mask & (uint16_t)16384)){
-    madnessCalculator(arr, ((mask | 16384) | 8) | 64, mask_used | 16384, sum + arr[14]);
-  }
-  if(!(mask & (uint16_t)32768)){
-    madnessCalculator(arr, ((mask | 32768) | 4096) | 256, mask_used | 32768, sum + arr[15]);
   }
   
 }
