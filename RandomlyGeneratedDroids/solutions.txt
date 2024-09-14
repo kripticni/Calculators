@@ -1,0 +1,641 @@
+Madness Potion craftable with: Abate Algid Ardor Cavort Tenebrous 
+Madness Potion craftable with: Abate Algid Ardor Cavort Theriac 
+Madness Potion craftable with: Abate Algid Ardor Cavort Virulent
+Madness Potion craftable with: Abate Algid Ardor Cavort 
+Madness Potion craftable with: Abate Algid Ardor Gambol Lucre 
+Madness Potion craftable with: Abate Algid Ardor Gambol Theriac 
+Madness Potion craftable with: Abate Algid Ardor Gambol Virulent
+Madness Potion craftable with: Abate Algid Ardor Gambol 
+Madness Potion craftable with: Abate Algid Ardor Lucre Skew 
+Madness Potion craftable with: Abate Algid Ardor Lucre Tenebrous 
+Madness Potion craftable with: Abate Algid Ardor Lucre Theriac 
+Madness Potion craftable with: Abate Algid Ardor Lucre 
+Madness Potion craftable with: Abate Algid Ardor Skew Tenebrous 
+Madness Potion craftable with: Abate Algid Ardor Skew Theriac 
+Madness Potion craftable with: Abate Algid Ardor Skew Virulent
+Madness Potion craftable with: Abate Algid Ardor Skew 
+Madness Potion craftable with: Abate Algid Ardor Tenebrous Virulent
+Madness Potion craftable with: Abate Algid Ardor Tenebrous 
+Madness Potion craftable with: Abate Algid Ardor Theriac 
+Madness Potion craftable with: Abate Algid Ardor Virulent
+Madness Potion craftable with: Abate Algid Ardor 
+Madness Potion craftable with: Abate Algid Cavort Fervor Gambol Theriac 
+Madness Potion craftable with: Abate Algid Cavort Fervor Gambol 
+Madness Potion craftable with: Abate Algid Cavort Fervor Tenebrous 
+Madness Potion craftable with: Abate Algid Cavort Fervor Theriac 
+Madness Potion craftable with: Abate Algid Cavort Fervor Virulent
+Madness Potion craftable with: Abate Algid Cavort Fervor 
+Madness Potion craftable with: Abate Algid Cavort Gambol Theriac Vigor 
+Madness Potion craftable with: Abate Algid Cavort Gambol Theriac 
+Madness Potion craftable with: Abate Algid Cavort Gambol Vigor 
+Madness Potion craftable with: Abate Algid Cavort Gambol 
+Madness Potion craftable with: Abate Algid Cavort Tenebrous Vigor 
+Madness Potion craftable with: Abate Algid Cavort Tenebrous 
+Madness Potion craftable with: Abate Algid Cavort Theriac Vigor 
+Madness Potion craftable with: Abate Algid Cavort Theriac 
+Madness Potion craftable with: Abate Algid Cavort Vigor Virulent
+Madness Potion craftable with: Abate Algid Cavort Vigor 
+Madness Potion craftable with: Abate Algid Cavort Virulent
+Madness Potion craftable with: Abate Algid Cavort 
+Madness Potion craftable with: Abate Algid Fervor Gambol Lucre 
+Madness Potion craftable with: Abate Algid Fervor Gambol Theriac 
+Madness Potion craftable with: Abate Algid Fervor Gambol Virulent
+Madness Potion craftable with: Abate Algid Fervor Gambol 
+Madness Potion craftable with: Abate Algid Fervor Lucre Skew 
+Madness Potion craftable with: Abate Algid Fervor Lucre Tenebrous 
+Madness Potion craftable with: Abate Algid Fervor Lucre Theriac 
+Madness Potion craftable with: Abate Algid Fervor Lucre 
+Madness Potion craftable with: Abate Algid Fervor Skew Tenebrous 
+Madness Potion craftable with: Abate Algid Fervor Skew Theriac 
+Madness Potion craftable with: Abate Algid Fervor Skew Virulent
+Madness Potion craftable with: Abate Algid Fervor Skew 
+Madness Potion craftable with: Abate Algid Fervor Tenebrous Virulent
+Madness Potion craftable with: Abate Algid Fervor Tenebrous 
+Madness Potion craftable with: Abate Algid Fervor Theriac 
+Madness Potion craftable with: Abate Algid Fervor Virulent
+Madness Potion craftable with: Abate Algid Fervor 
+Madness Potion craftable with: Abate Algid Gambol Lucre Vigor 
+Madness Potion craftable with: Abate Algid Gambol Lucre 
+Madness Potion craftable with: Abate Algid Gambol Theriac Vigor 
+Madness Potion craftable with: Abate Algid Gambol Theriac 
+Madness Potion craftable with: Abate Algid Gambol Vigor Virulent
+Madness Potion craftable with: Abate Algid Gambol Vigor 
+Madness Potion craftable with: Abate Algid Gambol Virulent
+Madness Potion craftable with: Abate Algid Gambol 
+Madness Potion craftable with: Abate Algid Lucre Skew Vigor 
+Madness Potion craftable with: Abate Algid Lucre Skew 
+Madness Potion craftable with: Abate Algid Lucre Tenebrous Vigor 
+Madness Potion craftable with: Abate Algid Lucre Tenebrous 
+Madness Potion craftable with: Abate Algid Lucre Theriac Vigor 
+Madness Potion craftable with: Abate Algid Lucre Theriac 
+Madness Potion craftable with: Abate Algid Lucre Vigor 
+Madness Potion craftable with: Abate Algid Lucre 
+Madness Potion craftable with: Abate Algid Skew Tenebrous Vigor 
+Madness Potion craftable with: Abate Algid Skew Tenebrous 
+Madness Potion craftable with: Abate Algid Skew Theriac Vigor 
+Madness Potion craftable with: Abate Algid Skew Theriac 
+Madness Potion craftable with: Abate Algid Skew Vigor Virulent
+Madness Potion craftable with: Abate Algid Skew Vigor 
+Madness Potion craftable with: Abate Algid Skew Virulent
+Madness Potion craftable with: Abate Algid Skew 
+Madness Potion craftable with: Abate Algid Tenebrous Vigor Virulent
+Madness Potion craftable with: Abate Algid Tenebrous Vigor 
+Madness Potion craftable with: Abate Algid Tenebrous Virulent
+Madness Potion craftable with: Abate Algid Tenebrous 
+Madness Potion craftable with: Abate Algid Theriac Vigor 
+Madness Potion craftable with: Abate Algid Theriac 
+Madness Potion craftable with: Abate Algid Vigor Virulent
+Madness Potion craftable with: Abate Algid Vigor 
+Madness Potion craftable with: Abate Algid Virulent
+Madness Potion craftable with: Abate Algid 
+Madness Potion craftable with: Abate Ardor Cavort Gambol Theriac 
+Madness Potion craftable with: Abate Ardor Cavort Gambol 
+Madness Potion craftable with: Abate Ardor Cavort Tenebrous 
+Madness Potion craftable with: Abate Ardor Cavort Theriac 
+Madness Potion craftable with: Abate Ardor Cavort Virulent
+Madness Potion craftable with: Abate Ardor Cavort 
+Madness Potion craftable with: Abate Ardor Gambol Lucre 
+Madness Potion craftable with: Abate Ardor Gambol Theriac 
+Madness Potion craftable with: Abate Ardor Gambol Virulent
+Madness Potion craftable with: Abate Ardor Gambol 
+Madness Potion craftable with: Abate Ardor Lucre Skew 
+Madness Potion craftable with: Abate Ardor Lucre Tenebrous 
+Madness Potion craftable with: Abate Ardor Lucre Theriac 
+Madness Potion craftable with: Abate Ardor Lucre 
+Madness Potion craftable with: Abate Ardor Skew Tenebrous 
+Madness Potion craftable with: Abate Ardor Skew Theriac 
+Madness Potion craftable with: Abate Ardor Skew Virulent
+Madness Potion craftable with: Abate Ardor Skew 
+Madness Potion craftable with: Abate Ardor Tenebrous Virulent
+Madness Potion craftable with: Abate Ardor Tenebrous 
+Madness Potion craftable with: Abate Ardor Theriac 
+Madness Potion craftable with: Abate Ardor Virulent
+Madness Potion craftable with: Abate Ardor 
+Madness Potion craftable with: Abate Cavort Fervor Gambol Theriac 
+Madness Potion craftable with: Abate Cavort Fervor Gambol 
+Madness Potion craftable with: Abate Cavort Fervor Tenebrous 
+Madness Potion craftable with: Abate Cavort Fervor Theriac 
+Madness Potion craftable with: Abate Cavort Fervor Virulent
+Madness Potion craftable with: Abate Cavort Fervor 
+Madness Potion craftable with: Abate Cavort Gambol Theriac Vigor 
+Madness Potion craftable with: Abate Cavort Gambol Theriac 
+Madness Potion craftable with: Abate Cavort Gambol Vigor 
+Madness Potion craftable with: Abate Cavort Gambol 
+Madness Potion craftable with: Abate Cavort Tenebrous Vigor 
+Madness Potion craftable with: Abate Cavort Tenebrous 
+Madness Potion craftable with: Abate Cavort Theriac Vigor 
+Madness Potion craftable with: Abate Cavort Theriac 
+Madness Potion craftable with: Abate Cavort Vigor Virulent
+Madness Potion craftable with: Abate Cavort Vigor 
+Madness Potion craftable with: Abate Cavort Virulent
+Madness Potion craftable with: Abate Cavort 
+Madness Potion craftable with: Abate Fervor Gambol Lucre 
+Madness Potion craftable with: Abate Fervor Gambol Theriac 
+Madness Potion craftable with: Abate Fervor Gambol Virulent
+Madness Potion craftable with: Abate Fervor Gambol 
+Madness Potion craftable with: Abate Fervor Lucre Skew 
+Madness Potion craftable with: Abate Fervor Lucre Tenebrous 
+Madness Potion craftable with: Abate Fervor Lucre Theriac 
+Madness Potion craftable with: Abate Fervor Lucre 
+Madness Potion craftable with: Abate Fervor Skew Tenebrous 
+Madness Potion craftable with: Abate Fervor Skew Theriac 
+Madness Potion craftable with: Abate Fervor Skew Virulent
+Madness Potion craftable with: Abate Fervor Skew 
+Madness Potion craftable with: Abate Fervor Tenebrous Virulent
+Madness Potion craftable with: Abate Fervor Tenebrous 
+Madness Potion craftable with: Abate Fervor Theriac 
+Madness Potion craftable with: Abate Fervor Virulent
+Madness Potion craftable with: Abate Fervor 
+Madness Potion craftable with: Abate Gambol Lucre Vigor 
+Madness Potion craftable with: Abate Gambol Lucre 
+Madness Potion craftable with: Abate Gambol Theriac Vigor 
+Madness Potion craftable with: Abate Gambol Theriac 
+Madness Potion craftable with: Abate Gambol Vigor Virulent
+Madness Potion craftable with: Abate Gambol Vigor 
+Madness Potion craftable with: Abate Gambol Virulent
+Madness Potion craftable with: Abate Gambol 
+Madness Potion craftable with: Abate Lucre Skew Vigor 
+Madness Potion craftable with: Abate Lucre Skew 
+Madness Potion craftable with: Abate Lucre Tenebrous Vigor 
+Madness Potion craftable with: Abate Lucre Tenebrous 
+Madness Potion craftable with: Abate Lucre Theriac Vigor 
+Madness Potion craftable with: Abate Lucre Theriac 
+Madness Potion craftable with: Abate Lucre Vigor 
+Madness Potion craftable with: Abate Lucre 
+Madness Potion craftable with: Abate Skew Tenebrous Vigor 
+Madness Potion craftable with: Abate Skew Tenebrous 
+Madness Potion craftable with: Abate Skew Theriac Vigor 
+Madness Potion craftable with: Abate Skew Theriac 
+Madness Potion craftable with: Abate Skew Vigor Virulent
+Madness Potion craftable with: Abate Skew Vigor 
+Madness Potion craftable with: Abate Skew Virulent
+Madness Potion craftable with: Abate Skew 
+Madness Potion craftable with: Abate Tenebrous Vigor Virulent
+Madness Potion craftable with: Abate Tenebrous Vigor 
+Madness Potion craftable with: Abate Tenebrous Virulent
+Madness Potion craftable with: Abate Tenebrous 
+Madness Potion craftable with: Abate Theriac Vigor 
+Madness Potion craftable with: Abate Theriac 
+Madness Potion craftable with: Abate Vigor Virulent
+Madness Potion craftable with: Abate Vigor 
+Madness Potion craftable with: Abate Virulent
+Madness Potion craftable with: Abate 
+Madness Potion craftable with: Accrue Algid Ardor Cavort Gambol Theriac 
+Madness Potion craftable with: Accrue Algid Ardor Cavort Gambol 
+Madness Potion craftable with: Accrue Algid Ardor Cavort Tenebrous 
+Madness Potion craftable with: Accrue Algid Ardor Cavort Theriac 
+Madness Potion craftable with: Accrue Algid Ardor Cavort Virulent
+Madness Potion craftable with: Accrue Algid Ardor Cavort 
+Madness Potion craftable with: Accrue Algid Ardor Gambol Lucre 
+Madness Potion craftable with: Accrue Algid Ardor Gambol Theriac 
+Madness Potion craftable with: Accrue Algid Ardor Gambol Virulent
+Madness Potion craftable with: Accrue Algid Ardor Gambol 
+Madness Potion craftable with: Accrue Algid Ardor Lucre Skew 
+Madness Potion craftable with: Accrue Algid Ardor Lucre Tenebrous 
+Madness Potion craftable with: Accrue Algid Ardor Lucre Theriac 
+Madness Potion craftable with: Accrue Algid Ardor Lucre 
+Madness Potion craftable with: Accrue Algid Ardor Skew Tenebrous 
+Madness Potion craftable with: Accrue Algid Ardor Skew Theriac 
+Madness Potion craftable with: Accrue Algid Ardor Skew Virulent
+Madness Potion craftable with: Accrue Algid Ardor Skew 
+Madness Potion craftable with: Accrue Algid Ardor Tenebrous Virulent
+Madness Potion craftable with: Accrue Algid Ardor Tenebrous 
+Madness Potion craftable with: Accrue Algid Ardor Theriac 
+Madness Potion craftable with: Accrue Algid Ardor Virulent
+Madness Potion craftable with: Accrue Algid Ardor 
+Madness Potion craftable with: Accrue Algid Cavort Ichor Gambol Theriac 
+Madness Potion craftable with: Accrue Algid Cavort Ichor Gambol 
+Madness Potion craftable with: Accrue Algid Cavort Ichor Tenebrous 
+Madness Potion craftable with: Accrue Algid Cavort Ichor Theriac 
+Madness Potion craftable with: Accrue Algid Cavort Ichor Virulent
+Madness Potion craftable with: Accrue Algid Cavort Ichor 
+Madness Potion craftable with: Accrue Algid Cavort Gambol Theriac 
+Madness Potion craftable with: Accrue Algid Cavort Gambol 
+Madness Potion craftable with: Accrue Algid Cavort Tenebrous 
+Madness Potion craftable with: Accrue Algid Cavort Theriac 
+Madness Potion craftable with: Accrue Algid Cavort Virulent
+Madness Potion craftable with: Accrue Algid Cavort 
+Madness Potion craftable with: Accrue Algid Ichor Gambol Lucre 
+Madness Potion craftable with: Accrue Algid Ichor Gambol Theriac 
+Madness Potion craftable with: Accrue Algid Ichor Gambol Virulent
+Madness Potion craftable with: Accrue Algid Ichor Gambol 
+Madness Potion craftable with: Accrue Algid Ichor Lucre Skew 
+Madness Potion craftable with: Accrue Algid Ichor Lucre Tenebrous 
+Madness Potion craftable with: Accrue Algid Ichor Lucre Theriac 
+Madness Potion craftable with: Accrue Algid Ichor Lucre 
+Madness Potion craftable with: Accrue Algid Ichor Skew Tenebrous 
+Madness Potion craftable with: Accrue Algid Ichor Skew Theriac 
+Madness Potion craftable with: Accrue Algid Ichor Skew Virulent
+Madness Potion craftable with: Accrue Algid Ichor Skew 
+Madness Potion craftable with: Accrue Algid Ichor Tenebrous Virulent
+Madness Potion craftable with: Accrue Algid Ichor Tenebrous 
+Madness Potion craftable with: Accrue Algid Ichor Theriac 
+Madness Potion craftable with: Accrue Algid Ichor Virulent
+Madness Potion craftable with: Accrue Algid Ichor 
+Madness Potion craftable with: Accrue Algid Gambol Lucre 
+Madness Potion craftable with: Accrue Algid Gambol Theriac 
+Madness Potion craftable with: Accrue Algid Gambol Virulent
+Madness Potion craftable with: Accrue Algid Gambol 
+Madness Potion craftable with: Accrue Algid Lucre Skew 
+Madness Potion craftable with: Accrue Algid Lucre Tenebrous 
+Madness Potion craftable with: Accrue Algid Lucre Theriac 
+Madness Potion craftable with: Accrue Algid Lucre 
+Madness Potion craftable with: Accrue Algid Skew Tenebrous 
+Madness Potion craftable with: Accrue Algid Skew Theriac 
+Madness Potion craftable with: Accrue Algid Skew Virulent
+Madness Potion craftable with: Accrue Algid Skew 
+Madness Potion craftable with: Accrue Algid Tenebrous Virulent
+Madness Potion craftable with: Accrue Algid Tenebrous 
+Madness Potion craftable with: Accrue Algid Theriac 
+Madness Potion craftable with: Accrue Algid Virulent
+Madness Potion craftable with: Accrue Algid 
+Madness Potion craftable with: Accrue Ardor Cavort Gambol Theriac 
+Madness Potion craftable with: Accrue Ardor Cavort Gambol 
+Madness Potion craftable with: Accrue Ardor Cavort Tenebrous 
+Madness Potion craftable with: Accrue Ardor Cavort Theriac 
+Madness Potion craftable with: Accrue Ardor Cavort Virulent
+Madness Potion craftable with: Accrue Ardor Cavort 
+Madness Potion craftable with: Accrue Ardor Gambol Lucre 
+Madness Potion craftable with: Accrue Ardor Gambol Theriac 
+Madness Potion craftable with: Accrue Ardor Gambol Virulent
+Madness Potion craftable with: Accrue Ardor Gambol 
+Madness Potion craftable with: Accrue Ardor Lucre Skew 
+Madness Potion craftable with: Accrue Ardor Lucre Tenebrous 
+Madness Potion craftable with: Accrue Ardor Lucre Theriac 
+Madness Potion craftable with: Accrue Ardor Lucre 
+Madness Potion craftable with: Accrue Ardor Skew Tenebrous 
+Madness Potion craftable with: Accrue Ardor Skew Theriac 
+Madness Potion craftable with: Accrue Ardor Skew Virulent
+Madness Potion craftable with: Accrue Ardor Skew 
+Madness Potion craftable with: Accrue Ardor Tenebrous Virulent
+Madness Potion craftable with: Accrue Ardor Tenebrous 
+Madness Potion craftable with: Accrue Ardor Theriac 
+Madness Potion craftable with: Accrue Ardor Virulent
+Madness Potion craftable with: Accrue Ardor 
+Madness Potion craftable with: Accrue Cavort Ichor Gambol Theriac 
+Madness Potion craftable with: Accrue Cavort Ichor Gambol 
+Madness Potion craftable with: Accrue Cavort Ichor Tenebrous 
+Madness Potion craftable with: Accrue Cavort Ichor Theriac 
+Madness Potion craftable with: Accrue Cavort Ichor Virulent
+Madness Potion craftable with: Accrue Cavort Ichor 
+Madness Potion craftable with: Accrue Cavort Gambol Theriac 
+Madness Potion craftable with: Accrue Cavort Gambol 
+Madness Potion craftable with: Accrue Cavort Tenebrous 
+Madness Potion craftable with: Accrue Cavort Theriac 
+Madness Potion craftable with: Accrue Cavort Virulent
+Madness Potion craftable with: Accrue Cavort 
+Madness Potion craftable with: Accrue Ichor Gambol Lucre 
+Madness Potion craftable with: Accrue Ichor Gambol Theriac 
+Madness Potion craftable with: Accrue Ichor Gambol Virulent
+Madness Potion craftable with: Accrue Ichor Gambol 
+Madness Potion craftable with: Accrue Ichor Lucre Skew 
+Madness Potion craftable with: Accrue Ichor Lucre Tenebrous 
+Madness Potion craftable with: Accrue Ichor Lucre Theriac 
+Madness Potion craftable with: Accrue Ichor Lucre 
+Madness Potion craftable with: Accrue Ichor Skew Tenebrous 
+Madness Potion craftable with: Accrue Ichor Skew Theriac 
+Madness Potion craftable with: Accrue Ichor Skew Virulent
+Madness Potion craftable with: Accrue Ichor Skew 
+Madness Potion craftable with: Accrue Ichor Tenebrous Virulent
+Madness Potion craftable with: Accrue Ichor Tenebrous 
+Madness Potion craftable with: Accrue Ichor Theriac 
+Madness Potion craftable with: Accrue Ichor Virulent
+Madness Potion craftable with: Accrue Ichor 
+Madness Potion craftable with: Accrue Gambol Lucre 
+Madness Potion craftable with: Accrue Gambol Theriac 
+Madness Potion craftable with: Accrue Gambol Virulent
+Madness Potion craftable with: Accrue Gambol 
+Madness Potion craftable with: Accrue Lucre Skew 
+Madness Potion craftable with: Accrue Lucre Tenebrous 
+Madness Potion craftable with: Accrue Lucre Theriac 
+Madness Potion craftable with: Accrue Lucre 
+Madness Potion craftable with: Accrue Skew Tenebrous 
+Madness Potion craftable with: Accrue Skew Theriac 
+Madness Potion craftable with: Accrue Skew Virulent
+Madness Potion craftable with: Accrue Skew 
+Madness Potion craftable with: Accrue Tenebrous Virulent
+Madness Potion craftable with: Accrue Tenebrous 
+Madness Potion craftable with: Accrue Theriac 
+Madness Potion craftable with: Accrue Virulent
+Madness Potion craftable with: Accrue 
+Madness Potion craftable with: Algid Ardor Cavort Ichor Gambol Theriac 
+Madness Potion craftable with: Algid Ardor Cavort Ichor Gambol 
+Madness Potion craftable with: Algid Ardor Cavort Ichor Tenebrous 
+Madness Potion craftable with: Algid Ardor Cavort Ichor Theriac 
+Madness Potion craftable with: Algid Ardor Cavort Ichor Virulent
+Madness Potion craftable with: Algid Ardor Cavort Ichor 
+Madness Potion craftable with: Algid Ardor Cavort Gambol Theriac 
+Madness Potion craftable with: Algid Ardor Cavort Gambol 
+Madness Potion craftable with: Algid Ardor Cavort Tenebrous 
+Madness Potion craftable with: Algid Ardor Cavort Theriac 
+Madness Potion craftable with: Algid Ardor Cavort Virulent
+Madness Potion craftable with: Algid Ardor Cavort 
+Madness Potion craftable with: Algid Ardor Ichor Gambol Lucre 
+Madness Potion craftable with: Algid Ardor Ichor Gambol Theriac 
+Madness Potion craftable with: Algid Ardor Ichor Gambol Virulent
+Madness Potion craftable with: Algid Ardor Ichor Gambol 
+Madness Potion craftable with: Algid Ardor Ichor Lucre Skew 
+Madness Potion craftable with: Algid Ardor Ichor Lucre Tenebrous 
+Madness Potion craftable with: Algid Ardor Ichor Lucre Theriac 
+Madness Potion craftable with: Algid Ardor Ichor Lucre 
+Madness Potion craftable with: Algid Ardor Ichor Skew Tenebrous 
+Madness Potion craftable with: Algid Ardor Ichor Skew Theriac 
+Madness Potion craftable with: Algid Ardor Ichor Skew Virulent
+Madness Potion craftable with: Algid Ardor Ichor Skew 
+Madness Potion craftable with: Algid Ardor Ichor Tenebrous Virulent
+Madness Potion craftable with: Algid Ardor Ichor Tenebrous 
+Madness Potion craftable with: Algid Ardor Ichor Theriac 
+Madness Potion craftable with: Algid Ardor Ichor Virulent
+Madness Potion craftable with: Algid Ardor Ichor 
+Madness Potion craftable with: Algid Ardor Gambol Lucre 
+Madness Potion craftable with: Algid Ardor Gambol Theriac 
+Madness Potion craftable with: Algid Ardor Gambol Virulent
+Madness Potion craftable with: Algid Ardor Gambol 
+Madness Potion craftable with: Algid Ardor Lucre Skew 
+Madness Potion craftable with: Algid Ardor Lucre Tenebrous 
+Madness Potion craftable with: Algid Ardor Lucre Theriac 
+Madness Potion craftable with: Algid Ardor Lucre 
+Madness Potion craftable with: Algid Ardor Skew Tenebrous 
+Madness Potion craftable with: Algid Ardor Skew Theriac 
+Madness Potion craftable with: Algid Ardor Skew Virulent
+Madness Potion craftable with: Algid Ardor Skew 
+Madness Potion craftable with: Algid Ardor Tenebrous Virulent
+Madness Potion craftable with: Algid Ardor Tenebrous 
+Madness Potion craftable with: Algid Ardor Theriac 
+Madness Potion craftable with: Algid Ardor Virulent
+Madness Potion craftable with: Algid Ardor 
+Madness Potion craftable with: Algid Cavort Fervor Gambol Theriac Vigor 
+Madness Potion craftable with: Algid Cavort Fervor Gambol Theriac 
+Madness Potion craftable with: Algid Cavort Fervor Gambol Vigor 
+Madness Potion craftable with: Algid Cavort Fervor Gambol 
+Madness Potion craftable with: Algid Cavort Fervor Tenebrous Vigor 
+Madness Potion craftable with: Algid Cavort Fervor Tenebrous 
+Madness Potion craftable with: Algid Cavort Fervor Theriac Vigor 
+Madness Potion craftable with: Algid Cavort Fervor Theriac 
+Madness Potion craftable with: Algid Cavort Fervor Vigor Virulent
+Madness Potion craftable with: Algid Cavort Fervor Vigor 
+Madness Potion craftable with: Algid Cavort Fervor Virulent
+Madness Potion craftable with: Algid Cavort Fervor 
+Madness Potion craftable with: Algid Cavort Ichor Gambol Theriac 
+Madness Potion craftable with: Algid Cavort Ichor Gambol 
+Madness Potion craftable with: Algid Cavort Ichor Tenebrous 
+Madness Potion craftable with: Algid Cavort Ichor Theriac 
+Madness Potion craftable with: Algid Cavort Ichor Virulent
+Madness Potion craftable with: Algid Cavort Ichor 
+Madness Potion craftable with: Algid Cavort Gambol Theriac Vigor 
+Madness Potion craftable with: Algid Cavort Gambol Theriac 
+Madness Potion craftable with: Algid Cavort Gambol Vigor 
+Madness Potion craftable with: Algid Cavort Gambol 
+Madness Potion craftable with: Algid Cavort Tenebrous Vigor 
+Madness Potion craftable with: Algid Cavort Tenebrous 
+Madness Potion craftable with: Algid Cavort Theriac Vigor 
+Madness Potion craftable with: Algid Cavort Theriac 
+Madness Potion craftable with: Algid Cavort Vigor Virulent
+Madness Potion craftable with: Algid Cavort Vigor 
+Madness Potion craftable with: Algid Cavort Virulent
+Madness Potion craftable with: Algid Cavort 
+Madness Potion craftable with: Algid Fervor Gambol Lucre Vigor 
+Madness Potion craftable with: Algid Fervor Gambol Lucre 
+Madness Potion craftable with: Algid Fervor Gambol Theriac Vigor 
+Madness Potion craftable with: Algid Fervor Gambol Theriac 
+Madness Potion craftable with: Algid Fervor Gambol Vigor Virulent
+Madness Potion craftable with: Algid Fervor Gambol Vigor 
+Madness Potion craftable with: Algid Fervor Gambol Virulent
+Madness Potion craftable with: Algid Fervor Gambol 
+Madness Potion craftable with: Algid Fervor Lucre Skew Vigor 
+Madness Potion craftable with: Algid Fervor Lucre Skew 
+Madness Potion craftable with: Algid Fervor Lucre Tenebrous Vigor 
+Madness Potion craftable with: Algid Fervor Lucre Tenebrous 
+Madness Potion craftable with: Algid Fervor Lucre Theriac Vigor 
+Madness Potion craftable with: Algid Fervor Lucre Theriac 
+Madness Potion craftable with: Algid Fervor Lucre Vigor 
+Madness Potion craftable with: Algid Fervor Lucre 
+Madness Potion craftable with: Algid Fervor Skew Tenebrous Vigor 
+Madness Potion craftable with: Algid Fervor Skew Tenebrous 
+Madness Potion craftable with: Algid Fervor Skew Theriac Vigor 
+Madness Potion craftable with: Algid Fervor Skew Theriac 
+Madness Potion craftable with: Algid Fervor Skew Vigor Virulent
+Madness Potion craftable with: Algid Fervor Skew Vigor 
+Madness Potion craftable with: Algid Fervor Skew Virulent
+Madness Potion craftable with: Algid Fervor Skew 
+Madness Potion craftable with: Algid Fervor Tenebrous Vigor Virulent
+Madness Potion craftable with: Algid Fervor Tenebrous Vigor 
+Madness Potion craftable with: Algid Fervor Tenebrous Virulent
+Madness Potion craftable with: Algid Fervor Tenebrous 
+Madness Potion craftable with: Algid Fervor Theriac Vigor 
+Madness Potion craftable with: Algid Fervor Theriac 
+Madness Potion craftable with: Algid Fervor Vigor Virulent
+Madness Potion craftable with: Algid Fervor Vigor 
+Madness Potion craftable with: Algid Fervor Virulent
+Madness Potion craftable with: Algid Fervor 
+Madness Potion craftable with: Algid Ichor Gambol Lucre 
+Madness Potion craftable with: Algid Ichor Gambol Theriac 
+Madness Potion craftable with: Algid Ichor Gambol Virulent
+Madness Potion craftable with: Algid Ichor Gambol 
+Madness Potion craftable with: Algid Ichor Lucre Skew 
+Madness Potion craftable with: Algid Ichor Lucre Tenebrous 
+Madness Potion craftable with: Algid Ichor Lucre Theriac 
+Madness Potion craftable with: Algid Ichor Lucre 
+Madness Potion craftable with: Algid Ichor Skew Tenebrous 
+Madness Potion craftable with: Algid Ichor Skew Theriac 
+Madness Potion craftable with: Algid Ichor Skew Virulent
+Madness Potion craftable with: Algid Ichor Skew 
+Madness Potion craftable with: Algid Ichor Tenebrous Virulent
+Madness Potion craftable with: Algid Ichor Tenebrous 
+Madness Potion craftable with: Algid Ichor Theriac 
+Madness Potion craftable with: Algid Ichor Virulent
+Madness Potion craftable with: Algid Ichor 
+Madness Potion craftable with: Algid Gambol Lucre Vigor 
+Madness Potion craftable with: Algid Gambol Lucre 
+Madness Potion craftable with: Algid Gambol Theriac Vigor 
+Madness Potion craftable with: Algid Gambol Theriac 
+Madness Potion craftable with: Algid Gambol Vigor Virulent
+Madness Potion craftable with: Algid Gambol Vigor 
+Madness Potion craftable with: Algid Gambol Virulent
+Madness Potion craftable with: Algid Gambol 
+Madness Potion craftable with: Algid Lucre Skew Vigor 
+Madness Potion craftable with: Algid Lucre Skew 
+Madness Potion craftable with: Algid Lucre Tenebrous Vigor 
+Madness Potion craftable with: Algid Lucre Tenebrous 
+Madness Potion craftable with: Algid Lucre Theriac Vigor 
+Madness Potion craftable with: Algid Lucre Theriac 
+Madness Potion craftable with: Algid Lucre Vigor 
+Madness Potion craftable with: Algid Lucre 
+Madness Potion craftable with: Algid Skew Tenebrous Vigor 
+Madness Potion craftable with: Algid Skew Tenebrous 
+Madness Potion craftable with: Algid Skew Theriac Vigor 
+Madness Potion craftable with: Algid Skew Theriac 
+Madness Potion craftable with: Algid Skew Vigor Virulent
+Madness Potion craftable with: Algid Skew Vigor 
+Madness Potion craftable with: Algid Skew Virulent
+Madness Potion craftable with: Algid Skew 
+Madness Potion craftable with: Algid Tenebrous Vigor Virulent
+Madness Potion craftable with: Algid Tenebrous Vigor 
+Madness Potion craftable with: Algid Tenebrous Virulent
+Madness Potion craftable with: Algid Tenebrous 
+Madness Potion craftable with: Algid Theriac Vigor 
+Madness Potion craftable with: Algid Theriac 
+Madness Potion craftable with: Algid Vigor Virulent
+Madness Potion craftable with: Algid Vigor 
+Madness Potion craftable with: Algid Virulent
+Madness Potion craftable with: Algid 
+Madness Potion craftable with: Ardor Cavort Ichor Gambol Theriac 
+Madness Potion craftable with: Ardor Cavort Ichor Gambol 
+Madness Potion craftable with: Ardor Cavort Ichor Tenebrous 
+Madness Potion craftable with: Ardor Cavort Ichor Theriac 
+Madness Potion craftable with: Ardor Cavort Ichor Virulent
+Madness Potion craftable with: Ardor Cavort Ichor 
+Madness Potion craftable with: Ardor Cavort Gambol Theriac 
+Madness Potion craftable with: Ardor Cavort Gambol 
+Madness Potion craftable with: Ardor Cavort Tenebrous 
+Madness Potion craftable with: Ardor Cavort Theriac 
+Madness Potion craftable with: Ardor Cavort Virulent
+Madness Potion craftable with: Ardor Cavort 
+Madness Potion craftable with: Ardor Ichor Gambol Lucre 
+Madness Potion craftable with: Ardor Ichor Gambol Theriac 
+Madness Potion craftable with: Ardor Ichor Gambol Virulent
+Madness Potion craftable with: Ardor Ichor Gambol 
+Madness Potion craftable with: Ardor Ichor Lucre Skew 
+Madness Potion craftable with: Ardor Ichor Lucre Tenebrous 
+Madness Potion craftable with: Ardor Ichor Lucre Theriac 
+Madness Potion craftable with: Ardor Ichor Lucre 
+Madness Potion craftable with: Ardor Ichor Skew Tenebrous 
+Madness Potion craftable with: Ardor Ichor Skew Theriac 
+Madness Potion craftable with: Ardor Ichor Skew Virulent
+Madness Potion craftable with: Ardor Ichor Skew 
+Madness Potion craftable with: Ardor Ichor Tenebrous Virulent
+Madness Potion craftable with: Ardor Ichor Tenebrous 
+Madness Potion craftable with: Ardor Ichor Theriac 
+Madness Potion craftable with: Ardor Ichor Virulent
+Madness Potion craftable with: Ardor Ichor 
+Madness Potion craftable with: Ardor Gambol Lucre 
+Madness Potion craftable with: Ardor Gambol Theriac 
+Madness Potion craftable with: Ardor Gambol Virulent
+Madness Potion craftable with: Ardor Gambol 
+Madness Potion craftable with: Ardor Lucre Skew 
+Madness Potion craftable with: Ardor Lucre Tenebrous 
+Madness Potion craftable with: Ardor Lucre Theriac 
+Madness Potion craftable with: Ardor Lucre 
+Madness Potion craftable with: Ardor Skew Tenebrous 
+Madness Potion craftable with: Ardor Skew Theriac 
+Madness Potion craftable with: Ardor Skew Virulent
+Madness Potion craftable with: Ardor Skew 
+Madness Potion craftable with: Ardor Tenebrous Virulent
+Madness Potion craftable with: Ardor Tenebrous 
+Madness Potion craftable with: Ardor Theriac 
+Madness Potion craftable with: Ardor Virulent
+Madness Potion craftable with: Ardor 
+Madness Potion craftable with: Cavort Fervor Gambol Theriac Vigor 
+Madness Potion craftable with: Cavort Fervor Gambol Theriac 
+Madness Potion craftable with: Cavort Fervor Gambol Vigor 
+Madness Potion craftable with: Cavort Fervor Gambol 
+Madness Potion craftable with: Cavort Fervor Tenebrous Vigor 
+Madness Potion craftable with: Cavort Fervor Tenebrous 
+Madness Potion craftable with: Cavort Fervor Theriac Vigor 
+Madness Potion craftable with: Cavort Fervor Theriac 
+Madness Potion craftable with: Cavort Fervor Vigor Virulent
+Madness Potion craftable with: Cavort Fervor Vigor 
+Madness Potion craftable with: Cavort Fervor Virulent
+Madness Potion craftable with: Cavort Fervor 
+Madness Potion craftable with: Cavort Ichor Gambol Theriac 
+Madness Potion craftable with: Cavort Ichor Gambol 
+Madness Potion craftable with: Cavort Ichor Tenebrous 
+Madness Potion craftable with: Cavort Ichor Theriac 
+Madness Potion craftable with: Cavort Ichor Virulent
+Madness Potion craftable with: Cavort Ichor 
+Madness Potion craftable with: Cavort Gambol Theriac Vigor 
+Madness Potion craftable with: Cavort Gambol Theriac 
+Madness Potion craftable with: Cavort Gambol Vigor 
+Madness Potion craftable with: Cavort Gambol 
+Madness Potion craftable with: Cavort Tenebrous Vigor 
+Madness Potion craftable with: Cavort Tenebrous 
+Madness Potion craftable with: Cavort Theriac Vigor 
+Madness Potion craftable with: Cavort Theriac 
+Madness Potion craftable with: Cavort Vigor Virulent
+Madness Potion craftable with: Cavort Vigor 
+Madness Potion craftable with: Cavort Virulent
+Madness Potion craftable with: Cavort 
+Madness Potion craftable with: Fervor Gambol Lucre Vigor 
+Madness Potion craftable with: Fervor Gambol Lucre 
+Madness Potion craftable with: Fervor Gambol Theriac Vigor 
+Madness Potion craftable with: Fervor Gambol Theriac 
+Madness Potion craftable with: Fervor Gambol Vigor Virulent
+Madness Potion craftable with: Fervor Gambol Vigor 
+Madness Potion craftable with: Fervor Gambol Virulent
+Madness Potion craftable with: Fervor Gambol 
+Madness Potion craftable with: Fervor Lucre Skew Vigor 
+Madness Potion craftable with: Fervor Lucre Skew 
+Madness Potion craftable with: Fervor Lucre Tenebrous Vigor 
+Madness Potion craftable with: Fervor Lucre Tenebrous 
+Madness Potion craftable with: Fervor Lucre Theriac Vigor 
+Madness Potion craftable with: Fervor Lucre Theriac 
+Madness Potion craftable with: Fervor Lucre Vigor 
+Madness Potion craftable with: Fervor Lucre 
+Madness Potion craftable with: Fervor Skew Tenebrous Vigor 
+Madness Potion craftable with: Fervor Skew Tenebrous 
+Madness Potion craftable with: Fervor Skew Theriac Vigor 
+Madness Potion craftable with: Fervor Skew Theriac 
+Madness Potion craftable with: Fervor Skew Vigor Virulent
+Madness Potion craftable with: Fervor Skew Vigor 
+Madness Potion craftable with: Fervor Skew Virulent
+Madness Potion craftable with: Fervor Skew 
+Madness Potion craftable with: Fervor Tenebrous Vigor Virulent
+Madness Potion craftable with: Fervor Tenebrous Vigor 
+Madness Potion craftable with: Fervor Tenebrous Virulent
+Madness Potion craftable with: Fervor Tenebrous 
+Madness Potion craftable with: Fervor Theriac Vigor 
+Madness Potion craftable with: Fervor Theriac 
+Madness Potion craftable with: Fervor Vigor Virulent
+Madness Potion craftable with: Fervor Vigor 
+Madness Potion craftable with: Fervor Virulent
+Madness Potion craftable with: Fervor 
+Madness Potion craftable with: Ichor Gambol Lucre 
+Madness Potion craftable with: Ichor Gambol Theriac 
+Madness Potion craftable with: Ichor Gambol Virulent
+Madness Potion craftable with: Ichor Gambol 
+Madness Potion craftable with: Ichor Lucre Skew 
+Madness Potion craftable with: Ichor Lucre Tenebrous 
+Madness Potion craftable with: Ichor Lucre Theriac 
+Madness Potion craftable with: Ichor Lucre 
+Madness Potion craftable with: Ichor Skew Tenebrous 
+Madness Potion craftable with: Ichor Skew Theriac 
+Madness Potion craftable with: Ichor Skew Virulent
+Madness Potion craftable with: Ichor Skew 
+Madness Potion craftable with: Ichor Tenebrous Virulent
+Madness Potion craftable with: Ichor Tenebrous 
+Madness Potion craftable with: Ichor Theriac 
+Madness Potion craftable with: Ichor Virulent
+Madness Potion craftable with: Ichor 
+Madness Potion craftable with: Gambol Lucre Vigor 
+Madness Potion craftable with: Gambol Lucre 
+Madness Potion craftable with: Gambol Theriac Vigor 
+Madness Potion craftable with: Gambol Theriac 
+Madness Potion craftable with: Gambol Vigor Virulent
+Madness Potion craftable with: Gambol Vigor 
+Madness Potion craftable with: Gambol Virulent
+Madness Potion craftable with: Gambol 
+Madness Potion craftable with: Lucre Skew Vigor 
+Madness Potion craftable with: Lucre Skew 
+Madness Potion craftable with: Lucre Tenebrous Vigor 
+Madness Potion craftable with: Lucre Tenebrous 
+Madness Potion craftable with: Lucre Theriac Vigor 
+Madness Potion craftable with: Lucre Theriac 
+Madness Potion craftable with: Lucre Vigor 
+Madness Potion craftable with: Lucre 
+Madness Potion craftable with: Skew Tenebrous Vigor 
+Madness Potion craftable with: Skew Tenebrous 
+Madness Potion craftable with: Skew Theriac Vigor 
+Madness Potion craftable with: Skew Theriac 
+Madness Potion craftable with: Skew Vigor Virulent
+Madness Potion craftable with: Skew Vigor 
+Madness Potion craftable with: Skew Virulent
+Madness Potion craftable with: Skew 
+Madness Potion craftable with: Tenebrous Vigor Virulent
+Madness Potion craftable with: Tenebrous Vigor 
+Madness Potion craftable with: Tenebrous Virulent
+Madness Potion craftable with: Tenebrous 
+Madness Potion craftable with: Theriac Vigor 
+Madness Potion craftable with: Theriac 
+Madness Potion craftable with: Vigor Virulent
+Madness Potion craftable with: Vigor 
+Madness Potion craftable with: Virulent
